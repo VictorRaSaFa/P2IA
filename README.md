@@ -43,7 +43,13 @@ IAP2/
 
 ### 2. Crie um ambiente virtual (Opcional)
 
-`python -m venv venv`
+Windows:
+`python -m venv venv
+venv\Scripts\activate`
+
+Linux / Mac:
+`python3 -m venv venv
+source venv/bin/activate`
 
 ### 3. Instale as dependências
 
