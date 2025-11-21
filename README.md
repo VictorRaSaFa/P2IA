@@ -98,3 +98,7 @@ Seaborn
 Scikit-Learn
 
 Jupyter Notebook
+
+## 📺 **Link para o vídeo**
+
+https://youtu.be/bV5Pba2n8Lo
